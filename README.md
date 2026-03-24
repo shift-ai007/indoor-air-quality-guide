@@ -1,46 +1,76 @@
-# Indoor Air Quality Guide for South Florida
+# Indoor Air Quality Guide
 
-A comprehensive resource for understanding and improving indoor air quality (IAQ) in South Florida's unique tropical climate.
+Your home's air can be 2-5x more polluted than outdoor air. Here's how to fix that.
 
-## Why Indoor Air Quality Matters in South Florida
+## Common Indoor Pollutants
 
-South Florida's combination of high humidity (60-80% year-round), constant AC usage, and year-round warm temperatures creates unique IAQ challenges that don't exist in other climates. Homes here stay sealed tight 10+ months of the year, trapping pollutants, allergens, and moisture that can cause serious health issues.
+| Pollutant | Sources | Health Effects |
+|-----------|---------|----------------|
+| Dust mites | Carpets, bedding, upholstery | Allergies, asthma |
+| Mold spores | Damp areas, AC drip pans | Respiratory infections |
+| VOCs | Paint, cleaning products, furniture | Headaches, organ damage |
+| Pet dander | Cats, dogs, birds | Allergies, asthma |
+| Carbon monoxide | Gas appliances, attached garages | Poisoning, death |
+| Radon | Soil under foundation | Lung cancer |
+| Pollen | Windows, doors, HVAC intake | Allergies |
 
-### What You'll Find Here
+## Signs of Poor Indoor Air Quality
 
-- **Humidity control strategies** for maintaining 45-55% indoor humidity
-- **Filtration guides** comparing MERV ratings for South Florida conditions
-- **Mold prevention checklists** specific to Miami-Dade and Broward County homes
-- **UV germicidal light specifications** for residential AC systems
-- **Energy Recovery Ventilator (ERV)** sizing and installation guides
-- **Air quality testing protocols** with recommended equipment
+- Family members have worse allergies indoors
+- Musty or stale odors
+- Condensation on windows
+- Visible mold growth
+- Excessive dust buildup
+- Headaches that improve when you leave home
 
-## Key Topics
+## Solutions by Severity
 
-### 1. Humidity Management
-South Florida outdoor humidity averages 73%. Without active dehumidification, your home's ductwork becomes a breeding ground for mold and bacteria. Learn the difference between whole-home dehumidifiers and AC-based dehumidification.
+### Level 1: Basic Improvements (DIY)
+- Replace HVAC filters monthly with MERV 11+
+- Run exhaust fans when cooking/showering
+- Control humidity (30-50% ideal)
+- Vacuum with HEPA filter weekly
+- Open windows for ventilation when weather permits
+- Remove shoes at the door
 
-### 2. Filtration Upgrades
-Standard MERV 8 filters catch only 70% of mold spores. Upgrading to MERV 13 catches 90%+. But higher MERV ratings restrict airflow — your system needs to be compatible. We cover how to check.
+### Level 2: Targeted Solutions ($200-$1,000)
+- **Air purifiers** — HEPA + activated carbon for VOCs
+- **Dehumidifiers** — prevent mold in basements/crawl spaces
+- **UV-C light in HVAC** — kills bacteria and mold in ductwork
+- **CO detectors** — one per floor, near bedrooms
 
-### 3. Duct Cleaning & Sealing
-Leaky ducts in a South Florida attic (130°F+ in summer) pull hot, humid attic air into your home. Duct sealing alone can improve IAQ and reduce energy bills by 20-30%.
+### Level 3: Professional Solutions ($500-$5,000)
+- **[Professional duct cleaning](https://ac-repair.today/services/duct-cleaning/)** — removes years of accumulated dust, mold, and debris
+- **Whole-house air purification** — integrated into HVAC system
+- **ERV/HRV systems** — fresh air ventilation without energy loss
+- **[Indoor air quality testing](https://ac-repair.today/services/indoor-air-quality/)** — professional assessment with targeted solutions
 
-### 4. Common Pollutants in South Florida Homes
-- Mold spores (Aspergillus, Cladosporium, Stachybotrys)
-- Dust mites (thrive in humidity above 50%)
-- Pet dander (concentrated in sealed homes)
-- VOCs from building materials and cleaning products
-- Pollen (year-round in tropical climate)
+## The HVAC Connection
 
-## Professional Help
+Your HVAC system is both the biggest contributor to and best solution for air quality:
 
-For homes with persistent IAQ issues, professional assessment is recommended. [AC Repair Today](https://ac-repair.today/services/indoor-air-quality/) provides comprehensive indoor air quality testing, duct inspection, and filtration system design for South Florida homes.
+- **Problem**: Dirty ducts circulate pollutants to every room
+- **Solution**: Regular maintenance keeps the system clean
 
-## Contributing
+A well-maintained HVAC system with proper filtration removes 95%+ of airborne particles.
 
-Found an error or want to add information specific to your South Florida county? See [CONTRIBUTING.md](CONTRIBUTING.md).
+## Seasonal Air Quality Tips
 
-## License
+**Spring**: Change filters, clean ducts before allergy season
+**Summer**: Monitor humidity, check AC drip pans for mold
+**Fall**: [Maintenance tune-up](https://ac-repair.today/services/ac-maintenance/) before heating season
+**Winter**: Check CO detectors, maintain humidity levels
 
-MIT License - See [LICENSE](LICENSE)
+## Commercial Buildings
+
+Office buildings have unique air quality challenges — more occupants, off-gassing from commercial materials, and centralized HVAC systems that need professional management.
+
+[Commercial HVAC services](https://ac-repair.today/services/commercial-hvac/) — keep your workspace healthy and productive.
+
+## Get Professional Help
+
+- [Indoor Air Quality Services](https://ac-repair.today/services/indoor-air-quality/) — testing, solutions, and monitoring
+- [Emergency Repair](https://ac-repair.today/services/emergency-ac-repair/) — when you smell gas or carbon monoxide
+
+---
+Guide by [AC Repair Today](https://ac-repair.today/) — breathe easier at home.
