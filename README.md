@@ -57,7 +57,7 @@ A well-maintained HVAC system with proper filtration removes 95%+ of airborne pa
 ## Seasonal Air Quality Tips
 
 **Spring**: Change filters, clean ducts before allergy season
-**Summer**: Monitor humidity, check AC drip pans for mold — [see our detailed summer IAQ guide](docs/summer-allergens-florida.md)
+**Summer**: Monitor humidity, check AC drip pans for mold — [see our detailed summer IAQ guide](docs/summer-allergens-florida.md). Also read: [how your AC system itself shapes indoor air quality beyond the filter](docs/hvac-filtration-and-iaq-florida.md)
 **Fall**: [Maintenance tune-up](https://ac-repair.today/services/ac-maintenance/) before heating season
 **Winter**: Check CO detectors, maintain humidity levels
 
